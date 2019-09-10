@@ -1,0 +1,22 @@
+To report a bug, contact us by Twitter: @H2M_Dev
+=========
+v0.11:
+
+-Language system completely rewritted.
+-Logo bug fixed
+-Register page bug fixed
+-Admin manage minimals bugs fixed
+-as you asked us, the template is now compatible with subfolder 
+
+Thanks for buying my template ;)
+=========
+V0.10:
+
+-SQL EXPLOIT FIXED(change password page and skin changer page).
+-file "update.php" added (to check the version of your template).
+=========
+V0.09:
+
+-A lot of minimals bugs fixed. (in admin manage, in generator, in private generator, in login, in header)
+-SQL EXPLOIT FIXED(purchase page).
+=========
